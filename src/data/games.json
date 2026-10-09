@@ -1,0 +1,213 @@
+[
+  {
+    "id": "bo1-zombies",
+    "title": "BO1 Zombies",
+    "subtitle": "Call of Duty: Black Ops",
+    "url": "https://vel.gg/bo1z",
+    "genre": "Zombies",
+    "steamAppId": 42700,
+    "cover": "covers/bo1-zombies.jpg"
+  },
+  {
+    "id": "moon",
+    "title": "Moon",
+    "subtitle": "Mapa Zombies · Black Ops",
+    "url": "https://moon-zombies.pages.dev",
+    "genre": "Zombies",
+    "steamAppId": 42700,
+    "cover": "covers/moon.jpg"
+  },
+  {
+    "id": "kino-der-toten",
+    "title": "Kino der Toten",
+    "subtitle": "Mapa Zombies · Black Ops",
+    "url": "https://kino-der-toten.pages.dev",
+    "genre": "Zombies",
+    "steamAppId": 42700,
+    "cover": "covers/kino-der-toten.jpg"
+  },
+  {
+    "id": "bo3-cheese-cube",
+    "title": "BO3 Cheese Cube",
+    "subtitle": "Call of Duty: Black Ops III",
+    "url": "https://cheese-cube.pages.dev",
+    "genre": "Zombies",
+    "steamAppId": 311210,
+    "cover": "covers/bo3-cheese-cube.jpg"
+  },
+  {
+    "id": "black-ops-2",
+    "title": "Black Ops 2",
+    "subtitle": "Call of Duty: Black Ops II",
+    "url": "https://vibeslops.luckeysystems.com",
+    "genre": "FPS",
+    "steamAppId": 202970,
+    "cover": "covers/black-ops-2.jpg"
+  },
+  {
+    "id": "modern-warfare-2",
+    "title": "Modern Warfare 2",
+    "subtitle": "Call of Duty: MW2",
+    "url": "https://ovz-game-production.up.railway.app",
+    "genre": "FPS",
+    "steamAppId": 10180,
+    "cover": "covers/modern-warfare-2.jpg"
+  },
+  {
+    "id": "skate-3",
+    "title": "Skate 3",
+    "url": "https://skate.aaddpp.lol",
+    "genre": "Esportes",
+    "wikipedia": "Skate 3",
+    "cover": "covers/skate-3.jpg"
+  },
+  {
+    "id": "skate-rust",
+    "title": "Skate Rust",
+    "url": "https://global-terror.net",
+    "genre": "Esportes"
+  },
+  {
+    "id": "cs-surf",
+    "title": "CS Surf",
+    "subtitle": "Counter-Strike: Source",
+    "url": "https://surfd.net",
+    "genre": "FPS",
+    "steamAppId": 240,
+    "cover": "covers/cs-surf.jpg"
+  },
+  {
+    "id": "halo-ce",
+    "title": "Halo CE",
+    "subtitle": "Halo: Combat Evolved",
+    "url": "https://mitchellhynes.com/haloHalo",
+    "genre": "FPS",
+    "wikipedia": "Halo: Combat Evolved",
+    "cover": "covers/halo-ce.jpg"
+  },
+  {
+    "id": "ce-mobile",
+    "title": "CE Mobile",
+    "subtitle": "Halo: Combat Evolved",
+    "url": "https://hcemobile.com",
+    "genre": "FPS",
+    "wikipedia": "Halo: Combat Evolved",
+    "cover": "covers/ce-mobile.jpg"
+  },
+  {
+    "id": "pes-6",
+    "title": "PES 6",
+    "subtitle": "Pro Evolution Soccer 6",
+    "url": "https://pes6.optijuegos.net",
+    "genre": "Esportes",
+    "wikipedia": "Pro Evolution Soccer 6",
+    "cover": "covers/pes-6.jpg"
+  },
+  {
+    "id": "gta-5",
+    "title": "GTA 5",
+    "subtitle": "Grand Theft Auto V · arquivo",
+    "url": "https://web.archive.org/web/2026100605/https://playgta5.com/",
+    "genre": "Mundo aberto",
+    "steamAppId": 271590,
+    "cover": "covers/gta-5.jpg"
+  },
+  {
+    "id": "gta-vice-city",
+    "title": "GTA Vice City",
+    "subtitle": "Grand Theft Auto: Vice City",
+    "url": "https://joncodeofficial.github.io/gta-vice-city-wasm/",
+    "genre": "Mundo aberto",
+    "steamAppId": 12110,
+    "wikipedia": "Grand Theft Auto: Vice City",
+    "cover": "covers/gta-vice-city.jpg"
+  },
+  {
+    "id": "simpsons-hit-and-run",
+    "title": "The Simpsons: Hit & Run",
+    "url": "https://shar-wasm.cjoseph.workers.dev/?skipmovie",
+    "genre": "Mundo aberto",
+    "wikipedia": "The Simpsons: Hit & Run",
+    "cover": "covers/simpsons-hit-and-run.png"
+  },
+  {
+    "id": "quake",
+    "title": "Quake",
+    "url": "https://q1.pieter.com",
+    "genre": "Clássicos",
+    "steamAppId": 2310,
+    "cover": "covers/quake.jpg"
+  },
+  {
+    "id": "quake-2",
+    "title": "Quake 2",
+    "url": "https://q2.pieter.com",
+    "genre": "Clássicos",
+    "steamAppId": 2320,
+    "cover": "covers/quake-2.jpg"
+  },
+  {
+    "id": "quake-3",
+    "title": "Quake 3",
+    "subtitle": "Quake III Arena",
+    "url": "https://q3.pieter.com",
+    "genre": "Clássicos",
+    "steamAppId": 2200,
+    "cover": "covers/quake-3.jpg"
+  },
+  {
+    "id": "rtcw",
+    "title": "Return to Castle Wolfenstein",
+    "url": "https://rtcw.pieter.com",
+    "genre": "Clássicos",
+    "steamAppId": 9010,
+    "cover": "covers/rtcw.jpg"
+  },
+  {
+    "id": "unreal-tournament",
+    "title": "Unreal Tournament",
+    "url": "https://ut.pieter.com",
+    "genre": "Clássicos",
+    "steamAppId": 13240,
+    "cover": "covers/unreal-tournament.jpg"
+  },
+  {
+    "id": "half-life",
+    "title": "Half-Life",
+    "url": "https://pixelsuft.github.io/hl/",
+    "genre": "Clássicos",
+    "steamAppId": 70,
+    "cover": "covers/half-life.jpg"
+  },
+  {
+    "id": "half-life-cs16",
+    "title": "Half-Life / CS 1.6",
+    "subtitle": "WebXash",
+    "url": "https://x8bitrain.github.io/webXash/",
+    "genre": "Clássicos",
+    "steamAppId": 10,
+    "cover": "covers/half-life-cs16.jpg"
+  },
+  {
+    "id": "diablo",
+    "title": "Diablo",
+    "url": "https://johnimril.github.io/diablo_web/",
+    "genre": "RPG",
+    "wikipedia": "Diablo (video game)",
+    "cover": "covers/diablo.png"
+  },
+  {
+    "id": "hedgewars",
+    "title": "Hedgewars",
+    "url": "https://webwars.link",
+    "genre": "Estratégia",
+    "wikipedia": "Hedgewars"
+  },
+  {
+    "id": "wasm-arcade",
+    "title": "Mais GTA / Minecraft",
+    "subtitle": "WASM Arcade",
+    "url": "https://wasmarcade.com/Fan",
+    "genre": "Coleções"
+  }
+]
